@@ -1,0 +1,43 @@
+Blida 	0,25	0,3
+Alger 	0,1	0,1
+Oran 	0,05	0,09
+Bejaïa 	0,05	0,09
+Sétif 	0,05	0,09
+Tizi-Ouzou 	0,05	0,09
+Tipaza 	0,05	0,09
+Tlemcen 	0,05	0,09
+Aïn Deflfla 	0,03	0,07
+Médéa	0,03	0,07
+Bordj Bou Arreridj,	0,03	0,07
+Mostaganem	0,03	0,07
+Skikda 	0,02	0,05
+El Oued 	0,02	0,05
+Chlef,	0,02	0,05
+Jijel	0,02	0,05
+ Mascara,	0,02	0,05
+Boumerdes 	0,02	0,05
+Batna, 	0,02	0,05
+Constantine 	0,02	0,05
+Sidi Bel Abbes,	0,02	0,05
+Bouira	0,02	0,05
+Djelfa,  	0,01	0,03
+Annaba	0,01	0,03
+Relizane 	0,01	0,03
+Biskra, Aïn	0,01	0,03
+Temouchent,	0,01	0,03
+Oum al Bouaghi	0,01	0,03
+Souk Ahras, 	0,01	0,03
+Bouagui	0,01	0,03
+El Tarf 04	0,01	0,03
+Guelma, 	0,01	0,03
+Adrar 03	0,01	0,03
+Ouargla, 	0,01	0,03
+M’Sila,	0,01	0,03
+Khenchela,	0,01	0,03
+Ghardaïa,	0,01	0,03
+Tissemssilt	0,01	0,03
+Bechar	0,01	0,03
+Illizi	0,01	0,03
+Laghouat, 	0,01	0,03
+ Tiaret,	0,01	0,03
+Tebessa	0,01	0,03
